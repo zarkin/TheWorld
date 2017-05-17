@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "ToAddress": "zachary_arkin@cable.comcast.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDB;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true"
+  },
+  "Keys": {
+    "BingKey":  "DONTEVERPUTKEYSINSOURCECONTROL"
+  }
+}
