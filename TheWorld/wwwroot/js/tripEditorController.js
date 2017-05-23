@@ -5,7 +5,7 @@
         .controller("tripEditorController", tripEditorController);
 
     function tripEditorController($routeParams, $http) {
-        var vm = this
+        var vm = this;
 
         vm.tripName = $routeParams.tripName;
 
